@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sampledeployone/static/css/main.f6c1c810.chunk.css",
-    "main.js": "/sampledeployone/static/js/main.56e7a8d1.chunk.js",
-    "main.js.map": "/sampledeployone/static/js/main.56e7a8d1.chunk.js.map",
-    "runtime-main.js": "/sampledeployone/static/js/runtime-main.846a6ec4.js",
-    "runtime-main.js.map": "/sampledeployone/static/js/runtime-main.846a6ec4.js.map",
-    "static/js/2.fb258b08.chunk.js": "/sampledeployone/static/js/2.fb258b08.chunk.js",
-    "static/js/2.fb258b08.chunk.js.map": "/sampledeployone/static/js/2.fb258b08.chunk.js.map",
-    "static/js/3.0d31e61e.chunk.js": "/sampledeployone/static/js/3.0d31e61e.chunk.js",
-    "static/js/3.0d31e61e.chunk.js.map": "/sampledeployone/static/js/3.0d31e61e.chunk.js.map",
-    "index.html": "/sampledeployone/index.html",
-    "precache-manifest.603e6ef621af59e1af10108acbb2195e.js": "/sampledeployone/precache-manifest.603e6ef621af59e1af10108acbb2195e.js",
-    "service-worker.js": "/sampledeployone/service-worker.js",
-    "static/css/main.f6c1c810.chunk.css.map": "/sampledeployone/static/css/main.f6c1c810.chunk.css.map",
-    "static/js/2.fb258b08.chunk.js.LICENSE.txt": "/sampledeployone/static/js/2.fb258b08.chunk.js.LICENSE.txt"
+    "main.css": "/syscodewebappfinal/static/css/main.f6c1c810.chunk.css",
+    "main.js": "/syscodewebappfinal/static/js/main.56e7a8d1.chunk.js",
+    "main.js.map": "/syscodewebappfinal/static/js/main.56e7a8d1.chunk.js.map",
+    "runtime-main.js": "/syscodewebappfinal/static/js/runtime-main.f0738bf2.js",
+    "runtime-main.js.map": "/syscodewebappfinal/static/js/runtime-main.f0738bf2.js.map",
+    "static/js/2.fb258b08.chunk.js": "/syscodewebappfinal/static/js/2.fb258b08.chunk.js",
+    "static/js/2.fb258b08.chunk.js.map": "/syscodewebappfinal/static/js/2.fb258b08.chunk.js.map",
+    "static/js/3.0d31e61e.chunk.js": "/syscodewebappfinal/static/js/3.0d31e61e.chunk.js",
+    "static/js/3.0d31e61e.chunk.js.map": "/syscodewebappfinal/static/js/3.0d31e61e.chunk.js.map",
+    "index.html": "/syscodewebappfinal/index.html",
+    "precache-manifest.e031a6e445a1c694cf2004b2f6545ef9.js": "/syscodewebappfinal/precache-manifest.e031a6e445a1c694cf2004b2f6545ef9.js",
+    "service-worker.js": "/syscodewebappfinal/service-worker.js",
+    "static/css/main.f6c1c810.chunk.css.map": "/syscodewebappfinal/static/css/main.f6c1c810.chunk.css.map",
+    "static/js/2.fb258b08.chunk.js.LICENSE.txt": "/syscodewebappfinal/static/js/2.fb258b08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.846a6ec4.js",
+    "static/js/runtime-main.f0738bf2.js",
     "static/js/2.fb258b08.chunk.js",
     "static/css/main.f6c1c810.chunk.css",
     "static/js/main.56e7a8d1.chunk.js"
